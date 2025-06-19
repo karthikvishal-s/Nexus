@@ -9,7 +9,8 @@
 
 ## 📸 Screenshots
 
-| Welcome Page | Sign In / Sign Up | AI Assistant |
+| Welcome Page | Sign In / Sign Up | AI Assistant |<img width="1920" alt="Screenshot 2025-06-19 at 10 43 04 PM" src="https://github.com/user-attachments/assets/b1d8f962-50b6-4803-8796-6235d1048b30" />
+
 |--------------|-------------------|--------------|
 | ![Welcome](docs/screenshots/welcome.png) | ![Auth](docs/screenshots/auth.png) | ![AI Assistant](docs/screenshots/ai.png) |
 
@@ -24,6 +25,9 @@
 - 🎨 Clean and elegant UI with **Tailwind CSS**
 - 🔄 Live typing indicators and message sync
 - 🖼️ Profile picture upload support
+-
+- <img width="1920" alt="Screenshot 2025-06-19 at 10 43 04 PM" src="https://github.com/user-attachments/assets/6f01899c-eafa-43cd-baee-26870440f993" />
+
 - 🌍 Works across platforms and devices
 
 ---
